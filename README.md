@@ -1,1 +1,1 @@
-# organisation-service
+# @nuxt4-layers/organisation-service
